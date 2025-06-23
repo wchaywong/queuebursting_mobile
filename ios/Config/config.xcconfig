@@ -1,0 +1,9 @@
+BUNDLE_DISPLAY_NAME = QueueBurstingLocal
+
+PRODUCT_BUNDLE_IDENTIFIER = com.mendix.native.template$(BUNDLE_IDENTIFIER_APPEND)
+
+RUNTIME_URL = http:\/\/localhost:8080/
+
+PRODUCT_NAME = QueueBursting
+
+HERMES_ENABLED = YES
